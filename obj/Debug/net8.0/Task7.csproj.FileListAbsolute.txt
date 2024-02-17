@@ -1,0 +1,15 @@
+C:\Users\TUF\OneDrive\Desktop\task 7\Task7\Task7\obj\Debug\net8.0\Task7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TUF\OneDrive\Desktop\task 7\Task7\Task7\obj\Debug\net8.0\Task7.AssemblyInfoInputs.cache
+C:\Users\TUF\OneDrive\Desktop\task 7\Task7\Task7\obj\Debug\net8.0\Task7.AssemblyInfo.cs
+C:\Users\TUF\OneDrive\Desktop\task 7\Task7\Task7\obj\Debug\net8.0\Task7.csproj.CoreCompileInputs.cache
+C:\Users\TUF\OneDrive\Desktop\task 7\Task7\Task7\obj\Debug\net8.0\Task7.sourcelink.json
+C:\Users\TUF\OneDrive\Desktop\task 7\Task7\Task7\bin\Debug\net8.0\Task7.exe
+C:\Users\TUF\OneDrive\Desktop\task 7\Task7\Task7\bin\Debug\net8.0\Task7.deps.json
+C:\Users\TUF\OneDrive\Desktop\task 7\Task7\Task7\bin\Debug\net8.0\Task7.runtimeconfig.json
+C:\Users\TUF\OneDrive\Desktop\task 7\Task7\Task7\bin\Debug\net8.0\Task7.dll
+C:\Users\TUF\OneDrive\Desktop\task 7\Task7\Task7\bin\Debug\net8.0\Task7.pdb
+C:\Users\TUF\OneDrive\Desktop\task 7\Task7\Task7\obj\Debug\net8.0\Task7.dll
+C:\Users\TUF\OneDrive\Desktop\task 7\Task7\Task7\obj\Debug\net8.0\refint\Task7.dll
+C:\Users\TUF\OneDrive\Desktop\task 7\Task7\Task7\obj\Debug\net8.0\Task7.pdb
+C:\Users\TUF\OneDrive\Desktop\task 7\Task7\Task7\obj\Debug\net8.0\Task7.genruntimeconfig.cache
+C:\Users\TUF\OneDrive\Desktop\task 7\Task7\Task7\obj\Debug\net8.0\ref\Task7.dll
